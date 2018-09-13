@@ -1,0 +1,9 @@
+D:\BSCS\VS Projects\DFA_Practice_Approach2\DFA_Practice_Approach2\bin\Debug\DFA_Practice_Approach2.exe.config
+D:\BSCS\VS Projects\DFA_Practice_Approach2\DFA_Practice_Approach2\obj\Debug\DFA_Practice_Approach2.csprojResolveAssemblyReference.cache
+D:\BSCS\VS Projects\DFA_Practice_Approach2\DFA_Practice_Approach2\obj\Debug\DFA_Practice_Approach2.Form1.resources
+D:\BSCS\VS Projects\DFA_Practice_Approach2\DFA_Practice_Approach2\obj\Debug\DFA_Practice_Approach2.Properties.Resources.resources
+D:\BSCS\VS Projects\DFA_Practice_Approach2\DFA_Practice_Approach2\obj\Debug\DFA_Practice_Approach2.csproj.GenerateResource.Cache
+D:\BSCS\VS Projects\DFA_Practice_Approach2\DFA_Practice_Approach2\bin\Debug\DFA_Practice_Approach2.exe
+D:\BSCS\VS Projects\DFA_Practice_Approach2\DFA_Practice_Approach2\bin\Debug\DFA_Practice_Approach2.pdb
+D:\BSCS\VS Projects\DFA_Practice_Approach2\DFA_Practice_Approach2\obj\Debug\DFA_Practice_Approach2.exe
+D:\BSCS\VS Projects\DFA_Practice_Approach2\DFA_Practice_Approach2\obj\Debug\DFA_Practice_Approach2.pdb
